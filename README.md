@@ -17,9 +17,9 @@ compute Performance Indicators (and as such replicate or complement the ones pub
 | Reference Trajectory flights on Aug 3, 2017             | flight    | 2017 |    08 |  03 | [URL][f20180803] |
 | Reference Trajectory synthetic positions on Aug 3, 2017 | positions | 2017 |    08 |  03 | [URL][p20180803] |
 
-[f20180801]: https://google.com "reference trajectory flights on 20180801"
-[f20180802]: https://google.com "reference trajectory flights on 20180802"
-[f20180803]: https://google.com "reference trajectory flights on 20180803"
+[f20180801]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-01.csv.bz2 "reference trajectory flights on 20180801"
+[f20180802]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-02.csv.bz2 "reference trajectory flights on 20180802"
+[f20180803]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-03.csv.bz2 "reference trajectory flights on 20180803"
 
 [p20180801]: https://google.com "reference trajectory positions on 20180801"
 [p20180802]: https://google.com "reference trajectory positions on 20180802"
