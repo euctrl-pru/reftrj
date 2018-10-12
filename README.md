@@ -44,3 +44,9 @@ compute Performance Indicators (and as such replicate or complement the ones pub
 
 
 # Software
+
+The software for the production of the Reference Trajectory dataset is written in Python (with some optimization pieces in C++).
+We make this software available in the interest of feedback and exchanges with the aviation community at large.
+We are very much interested in proposals for improvements.
+
+
