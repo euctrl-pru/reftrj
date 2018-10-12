@@ -39,7 +39,7 @@ compute Performance Indicators (and as such replicate or complement the ones pub
 | Final report on RT project                              | PDF       | [URL][rtdoc1]    | 1.7 MB        |
 | Optomized pipeline                                      |           | URL              |               |
 
-[doc1]: https://github.com/euctrl-pru/reftrj/Trajectories_Production_Final_Report.pdf "Final report on RT project"
+[rtdoc1]: https://github.com/euctrl-pru/reftrj/raw/master/Trajectories_Production_Final_Report.pdf "Final report on RT project"
 
 
 
