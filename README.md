@@ -11,9 +11,7 @@ You can download the linked files either by clicking and saving them or
 by using Google's `gsutil` as (it saves in  `data-raw` directory):
 
 ```shell
-```{bash, eval=FALSE}
 $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/raw_cpr_fr24_positions_2017-08-08.csv.bz2 data-raw/
-```
 ```
 
 # Reference Trajectory Data Set
