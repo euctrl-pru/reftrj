@@ -7,7 +7,8 @@ compute Performance Indicators (and as such replicate or complement the ones pub
 
 # Data download
 
-You can download the linked files using Google's `gsutil` for example in `data-raw` directory as:
+You can download the linked files either by clicking and saving them or
+by using Google's `gsutil` as (it saves in  `data-raw` directory):
 
 ```shell
 ```{bash, eval=FALSE}
