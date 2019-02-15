@@ -5,6 +5,15 @@ This repository serves as a starting point to access the Reference Trajectory da
 The Reference Trajectory is a dataset produced by the PRU in order to make it possible for its stakeholders to
 compute Performance Indicators (and as such replicate or complement the ones published by the PRU.)
 
+# Data download
+
+You can download the linked files using Google's `gsutil` for example in `data-raw` directory as:
+
+```shell
+```{bash, eval=FALSE}
+$ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/raw_cpr_fr24_positions_2017-08-08.csv.bz2 data-raw/
+```
+```
 
 # Reference Trajectory Data Set
 
