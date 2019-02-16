@@ -18,11 +18,11 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 
 ## Flights
 
-| Description                                             | type      | Year | Month | Day | URL              | Size (approx) |
-|---------------------------------------------------------|-----------|------|-------|-----|------------------|---------------|
-| Reference Trajectory flights on Aug 1, 2017             | flight    | 2017 |    08 |  01 | [URL][f20180801] | 400 KB        |
-| Reference Trajectory flights on Aug 2, 2017             | flight    | 2017 |    08 |  02 | [URL][f20180802] | 400 KB        |
-| Reference Trajectory flights on Aug 3, 2017             | flight    | 2017 |    08 |  03 | [URL][f20180803] | 400 KB        |
+| Description           | type      | Year | Month | Day | URL              | Size (approx) |
+|-----------------------|-----------|------|-------|-----|------------------|---------------|
+| RT flights            | flight    | 2017 |    08 |  01 | [URL][f20180801] | 400 KB        |
+| RT flights            | flight    | 2017 |    08 |  02 | [URL][f20180802] | 400 KB        |
+| RT flights            | flight    | 2017 |    08 |  03 | [URL][f20180803] | 400 KB        |
 
 [f20180801]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-01.csv.bz2 "reference trajectory flights on 20180801"
 [f20180802]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-02.csv.bz2 "reference trajectory flights on 20180802"
@@ -30,11 +30,11 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 
 ## Positions
 
-| Description                                             | type      | Year | Month | Day | URL              | Size (approx) |
-|---------------------------------------------------------|-----------|------|-------|-----|------------------|---------------|
-| Reference Trajectory synthetic positions on Aug 1, 2017 | positions | 2017 |    08 |  01 | [URL][p20180801] | 2.9 GB        |
-| Reference Trajectory synthetic positions on Aug 2, 2017 | positions | 2017 |    08 |  02 | [URL][p20180802] | 2.9 GB        |
-| Reference Trajectory synthetic positions on Aug 3, 2017 | positions | 2017 |    08 |  03 | [URL][p20180803] | 2.9 GB        |
+| Description   | type      | Year | Month | Day | URL              | Size    |
+|---------------|-----------|------|-------|-----|------------------|---------|
+| RT positions  | positions | 2017 |    08 |  01 | [URL][p20180801] | 2.9 GB  |
+| RT positions  | positions | 2017 |    08 |  02 | [URL][p20180802] | 2.9 GB  |
+| RT positions  | positions | 2017 |    08 |  03 | [URL][p20180803] | 2.9 GB  |
 
 [p20180801]: https://storage.googleapis.com/pru-trajectories/products/synth_positions/cpr_fr24/mas_05_cpr_fr24_synth_positions_2017-08-01.csv.bz2 "reference trajectory positions on 20180801"
 [p20180802]: https://storage.googleapis.com/pru-trajectories/products/synth_positions/cpr_fr24/mas_05_cpr_fr24_synth_positions_2017-08-02.csv.bz2 "reference trajectory positions on 20180802"
