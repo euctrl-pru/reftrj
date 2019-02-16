@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/150969697.svg)](https://zenodo.org/badge/latestdoi/150969697)
+
 # Reference Trajectories for Performance Review of European ANS
 
 This repository serves as a starting point to access the Reference Trajectory dataset.
@@ -89,4 +91,4 @@ Please cite this work as
   pages = {8}
 }
 ```
-
+This repos has a DOI: [![DOI](https://zenodo.org/badge/150969697.svg)](https://zenodo.org/badge/latestdoi/150969697)
