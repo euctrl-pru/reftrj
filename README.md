@@ -45,9 +45,10 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 | Description                                             | type      | URL              | Size (approx) |
 |---------------------------------------------------------|-----------|------------------|---------------|
 | Final report on RT project                              | PDF       | [URL][rtdoc1]    | 1.7 MB        |
-| Optimized pipeline                                      |           | URL              |               |
+| Optimized pipeline                                      | PDF       | [URL][rtdoc2]    | 0.6 MB        |
 
 [rtdoc1]: https://github.com/euctrl-pru/reftrj/raw/master/Trajectories_Production_Final_Report.pdf "Final report on RT project"
+[rtdoc2]: <https://github.com/euctrl-pru/reftrj/blob/master/Trajectories%20Pipeline%20User%20Guide%20issue%201_0_0.pdf> "Optimized pipeline"
 
 
 
@@ -56,6 +57,17 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 The software for the production of the Reference Trajectory dataset is written in Python (with some optimization pieces in C++).
 We make this software available in the interest of feedback and exchanges with the aviation community at large.
 We are very much interested in proposals for improvements.
+
+* `rt-python`: Python code for the production of Reference Trajectories, [repo URL][rt-python].
+  Developed by Via Technology for the PRU of [EUROCONTROL<img src='https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurocontrol_logo_2010.svg' height='20px'>][euctrl] and made openly available. 
+* `via-sphere`: An header-only C++ library with Python bindings for calculating distances, angles and positions on
+  the surface of a sphere, [repo URL][via-sphere].
+  Developed and made openly available by [Via Technology<img src='https://via-technology.aero/wp-content/uploads/2017/07/Via-Technology-x2.png' height='14px'>][via].
+
+[rt-python]: <https://github.com/euctrl-pru/rt-python> "rt-python repository"
+[via-sphere]: <https://bitbucket.org/viaaero/via-sphere/src/master/>
+[via]: <https://via-technology.aero/> "Via Technology's Home Page"
+[euctrl]: <https://www.eurocontrol.int/> "EUROCONTROL's Home Page"
 
 # License
 
