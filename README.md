@@ -57,6 +57,12 @@ The software for the production of the Reference Trajectory dataset is written i
 We make this software available in the interest of feedback and exchanges with the aviation community at large.
 We are very much interested in proposals for improvements.
 
+# License
+
+The data and the documentation are licensed under **CC0-1.0**.
+
+The software is licensed under MIT or as stated in the relevant repository.
+
 # Citation
 Please cite this work as
 
