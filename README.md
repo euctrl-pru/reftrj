@@ -1,4 +1,4 @@
-# Reference trajectories for Performance Review of European ANS
+# Reference Trajectories for Performance Review of European ANS
 
 This repository serves as a starting point to access the Reference Trajectory dataset.
 
