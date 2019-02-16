@@ -45,7 +45,7 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 | Description                                             | type      | URL              | Size (approx) |
 |---------------------------------------------------------|-----------|------------------|---------------|
 | Final report on RT project                              | PDF       | [URL][rtdoc1]    | 1.7 MB        |
-| Optomized pipeline                                      |           | URL              |               |
+| Optimized pipeline                                      |           | URL              |               |
 
 [rtdoc1]: https://github.com/euctrl-pru/reftrj/raw/master/Trajectories_Production_Final_Report.pdf "Final report on RT project"
 
