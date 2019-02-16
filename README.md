@@ -57,4 +57,18 @@ The software for the production of the Reference Trajectory dataset is written i
 We make this software available in the interest of feedback and exchanges with the aviation community at large.
 We are very much interested in proposals for improvements.
 
+# Citation
+Please cite this work as
+
+```
+@inproceedings{,
+  author = {Spinielli, Enrico and Koelle, Rainer and Barker, Ken and Korbey, Nicholas},
+  title = {Open {{Flight Trajectories}} for {{Reproducible ANS Performance Review}}},
+  location = {{Salzburg, Austria}},
+  url = {https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_4.pdf},
+  eventtitle = {{{SESAR Innovation Days}} 2018},
+  date = {2018},
+  pages = {8}
+}
+```
 
