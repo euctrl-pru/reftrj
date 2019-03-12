@@ -26,9 +26,9 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 | RT flights            | flight    | 2017 |    08 |  02 | [URL][f20180802] | 400 KB        |
 | RT flights            | flight    | 2017 |    08 |  03 | [URL][f20180803] | 400 KB        |
 
-[f20180801]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-01.csv.bz2 "reference trajectory flights on 20180801"
-[f20180802]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-02.csv.bz2 "reference trajectory flights on 20180802"
-[f20180803]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_events_2017-08-03.csv.bz2 "reference trajectory flights on 20180803"
+[f20180801]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_flights_2017-08-01.csv.bz2 "reference trajectory flights on 20180801"
+[f20180802]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_flights_2017-08-02.csv.bz2 "reference trajectory flights on 20180802"
+[f20180803]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_flights_2017-08-03.csv.bz2 "reference trajectory flights on 20180803"
 
 ## Positions
 
