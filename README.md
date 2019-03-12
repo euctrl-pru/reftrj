@@ -22,9 +22,9 @@ $ gsutil https://storage.googleapis.com/pru-trajectories/sources/merged/overnigh
 
 | Description           | type      | Year | Month | Day | URL              | Size (approx) |
 |-----------------------|-----------|------|-------|-----|------------------|---------------|
-| RT flights            | flight    | 2017 |    08 |  01 | [URL][f20180801] | 400 KB        |
-| RT flights            | flight    | 2017 |    08 |  02 | [URL][f20180802] | 400 KB        |
-| RT flights            | flight    | 2017 |    08 |  03 | [URL][f20180803] | 400 KB        |
+| RT flights            | flight    | 2017 |    08 |  01 | [URL][f20180801] | 2.17 MB        |
+| RT flights            | flight    | 2017 |    08 |  02 | [URL][f20180802] | 2.21 MB        |
+| RT flights            | flight    | 2017 |    08 |  03 | [URL][f20180803] | 2.11 MB        |
 
 [f20180801]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_flights_2017-08-01.csv.bz2 "reference trajectory flights on 20180801"
 [f20180802]: https://storage.googleapis.com/pru-trajectories/sources/merged/overnight_cpr_fr24/cpr_fr24_flights_2017-08-02.csv.bz2 "reference trajectory flights on 20180802"
