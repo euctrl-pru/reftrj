@@ -77,8 +77,9 @@ The data and the documentation are licensed under **CC0-1.0**.
 
 The software is licensed under MIT or as stated in the relevant repository.
 
+
 # Citation
-Please cite this work as
+Please cite this work as (see also the relevant [companion repository for the paper](https://github.com/euctrl-pru/reproducible-ans-performance-paper))
 
 ```
 @inproceedings{,
